@@ -1,0 +1,250 @@
+[
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_13d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_13d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_sun_rise.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_sun_rise.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_03d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_03d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_star_light.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_star_light.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_star_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_star_dark.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_menu_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_menu_dark.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_13n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_13n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_refresh_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_refresh_dark.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_5.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_5.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_left_arrow_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_left_arrow_dark.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_03n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_03n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_2.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_2.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_calendar.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_calendar.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_pin_gray.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_pin_gray.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_pin_light.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_pin_light.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_04d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_04d.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_img.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_img.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_01n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_01n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_11n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_11n.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_searchcity.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_searchcity.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_04n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_04n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_search_light.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_search_light.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_refresh_light.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_refresh_light.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_3.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_3.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_search_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_search_dark.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_sun_set.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_sun_set.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_02d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_02d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_max_min.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_max_min.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_4.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_4.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_11d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_11d.png"
+    },
+    {
+        "merged": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-merged_res-48:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nashrinfathima/.gradle/daemon/8.0.1/com.weatherapp-main-50:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_01d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_01d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_menu_light.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_menu_light.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_humidity.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_humidity.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_left_arrow_white.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_left_arrow_white.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_wind.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_wind.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_02n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_02n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_10n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_10n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_09d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_09d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_splashscreen.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_splashscreen.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_50d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_50d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_10d.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_10d.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_bgimages_1.jpg.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_bgimages_1.jpg"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_50n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_50n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_09n.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_09n.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-mdpi_src_assets_images_openweathericons_pin_dark.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-mdpi/src_assets_images_openweathericons_pin_dark.png"
+    },
+    {
+        "merged": "com.weatherapp-merged_res-48:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.weatherapp-main-50:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
